@@ -1,0 +1,230 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:  sans-serif;
+}
+header{
+    text-align: center;
+    background-color: rgb(44, 42, 42);
+   
+}
+
+h1{
+    color: rgb(219, 212, 212);
+    padding: 1rem;
+    border-bottom: 2.6px solid rgb(88, 116, 142);
+   
+}
+
+ul li{
+    
+    display: inline-block;
+    color: rgb(167, 172, 178);
+    border: 1px solid white;
+    border-radius: 5px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-right: 14px;
+    padding-left: 14px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+a{
+    color: rgb(167, 172, 178);
+    text-decoration: none;
+}
+li:active{
+    background-color: rgb(167, 172, 178);
+    color:black;
+}
+
+body{
+    background-color: black;
+   
+}
+
+#section1{
+    margin-top: 1rem;
+    background-color: rgb(29, 28, 28);
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+#boxa{
+    margin-top: 1rem;
+    background-color: rgb(44, 39, 39);
+    
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+#section2{
+    margin-top: 1rem;
+    background-color: rgb(29, 28, 28);
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+#boxb{
+    margin-top: 1rem;
+    background-color: rgb(44, 39, 39);
+    
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+#section3{
+    margin-top: 1rem;
+    background-color: rgb(29, 28, 28);
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+#boxc{
+    margin-top: 1rem;
+    background-color: rgb(44, 39, 39);
+    
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+#section4{
+    margin-top: 1rem;
+    background-color: rgb(29, 28, 28);
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+#boxd{
+    margin-top: 1rem;
+    background-color: rgb(44, 39, 39);
+    
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+#section5{
+    margin-top: 1rem;
+    background-color: rgb(29, 28, 28);
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+#boxe{
+    margin-top: 1rem;
+    background-color: rgb(44, 39, 39);
+    
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+h3{
+    color: rgb(103, 123, 142) ;
+    border-bottom: 2.6px solid rgb(103, 123, 142);
+    padding: 5px;
+    /* margin: 2rem; */
+}
+
+h4{
+    color: rgb(103, 123, 142) ;
+    border-bottom: 2.6px solid rgb(103, 123, 142);
+    padding: 5px;
+}
+
+p{
+    color:  rgb(167, 172, 178);
+    padding-top: 1rem;
+}
+
+.box1{
+    display: inline-block;
+    border: 1px solid #fff;
+    width: 100px;
+    height: 100px;
+    background:rgb(212, 208, 208);
+    color: rgb(158, 163, 167);
+    font-size: 13px;
+    text-align: center;
+    line-height: 70px;
+    margin-top: 15px;
+    margin-left: 2.5px;
+    margin-right:5px;
+    margin-bottom: 15px;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+
+ol{
+    color:  rgb(167, 172, 178);
+    border: 1px hidden rgb(42, 38, 38);
+    background-color: rgb(44, 39, 39);
+    border-radius: 8px;
+    padding-top: 1rem;
+    padding-bottom: 1.5rem;
+    padding-left: 1rem;
+    margin: 15px;
+    border-left: 5px solid rgb(103, 123, 142);
+}
+
+.detail{
+    color:  rgb(167, 172, 178);
+    border: 1px hidden rgb(42, 38, 38);
+    background-color: rgb(34, 31, 31);
+    border-radius: 8px;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1.5rem;
+    margin: 15px;
+    border-left: 5px solid rgb(103, 123, 142);
+}
+
+.summ{
+    color:  rgb(167, 172, 178);
+    border: 1px hidden rgb(42, 38, 38);
+    background-color: rgb(34, 31, 31);
+    border-radius: 8px;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1.5rem;
+    margin: 15px;
+    border-left: 5px solid rgb(103, 123, 142);
+}
+
+.bold{
+    text-align: left;
+    position: absolute;
+    left: 83rem;
+}
+
+input{
+    background-color: rgb(44, 39, 39);
+    border-bottom: 2px solid rgb(103, 123, 142);
+    border-right: 2px solid rgb(103, 123, 142);
+    padding: 0.5rem;
+    width: 100%;
+    color: #fff;
+    text-decoration: none;
+}
+
+button{
+     background-color:  rgb(103, 123, 142);
+     color:  rgb(167, 172, 178);
+     width: 100%;
+     padding-top:2px ;
+     padding-bottom: 2px;
+     border-radius: 5px;
+}
+
+footer{
+    text-align: center;
+    color:  rgb(200, 206, 212);
+    background-color: rgb(40, 37, 37); 
+    padding: 1rem;
+    margin-top: 1rem;
+}
+
